@@ -1,0 +1,50 @@
+Course layout
+Week 1
+Introduction to Blockchain – I (Basics, History, Architecture, Conceptualization)
+Basic Crypto Primitives
+Week 2
+Basic Crypto Primitives Continued..
+Bitcoin Basics 
+Distributed Consensus
+Week 3
+Consensus in Bitcoin – I (The Basics, PoW and Beyond, The Miners)
+Permissioned Blockchain (Basics, Consensus)
+Week 4
+Permissioned Blockchain(RAFT Consensus, Byzantine General Problem, Practical Byzantine Fault Tolerance)
+Blockchain for Enterprise - Overview
+Blockchain Components and Concepts
+Week 5
+Hyperledger Fabric – Transaction Flow
+Hyperledger Fabric Details
+Fabric – Membership and Identity Management
+Hyperledger Fabric Network Setup
+Fabric Demo on IBM Blockchain Cloud 
+Week 6
+Fabric Demo on IBM Blockchain Cloud continued..
+Fabric Demo, deploy from scratch
+Hyperledger Composer – Application Development
+Hyperledger Composer – Network Administration
+Blockchain Use Cases
+Week 7
+Blockchain in Financial Service(Payments and Secure Trading, Compliance and Mortgage, Financial Trade)
+Revolutionizing Global Trade
+Blockchain in Supply Chain
+Week 8
+Blockchain in Supply Chain Continued..
+Blockchain in Other Industries
+Blockchain in Government (Advantages, Use Cases, Digital Identity)
+Week 9
+Blockchain in Government(Hyperledger Indy, Tax Payments and Land Registry Records)
+Blockchain Security (Overview, Membership and Access control in Fabric,Privacy in Fabric)
+Week 10
+Blockchain Security(Fabric SideDB)
+Research Aspects(Consensus Scalability, Bitcoin-NG, Collective Signing, Byzcoin)
+Week 11
+Research Aspects(Algorand,Cross Fault Tolerance, Secured Multi-Party Computation)
+Blockchain for Science (Blockchain for Big Data,Blockchain and AI)
+Week 12
+Comparing Ecosystems – Ethereum
+Comparing Ecosystems – Ethereum development tools and Quorum
+Comparing Ecosystems – Corda Part 1
+Comparing Ecosystems – Corda Part 2
+Concluding the course
